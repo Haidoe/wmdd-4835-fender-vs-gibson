@@ -118,6 +118,11 @@ a:hover {
   ul {
     grid-template-columns: repeat(3, 1fr);
   }
+
+  h3 {
+    text-transform: uppercase;
+    text-align: left;
+  }
 }
 
 @media screen and (min-width: 1024px) {
